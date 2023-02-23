@@ -1,0 +1,19 @@
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\bin\Debug\Mail Detector.exe.config
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\bin\Debug\Mail Detector.exe
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\bin\Debug\Mail Detector.pdb
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail Detector.csproj.AssemblyReference.cache
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail Detector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail_Detector.Properties.Resources.resources
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail Detector.csproj.GenerateResource.cache
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail Detector.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail Detector.exe
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail Detector.pdb
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail Detector.csproj.ResolveComReference.cache
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail_Detector.MainForm.resources
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail_Detector.FormServer.resources
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail_Detector.FormFolder.resources
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail_Detector.FormMail.resources
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\bin\Debug\Mail Detector.exe.manifest
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\bin\Debug\Mail Detector.application
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail Detector.exe.manifest
+C:\Users\Robin\source\repos\Mail Detector\Mail Detector\obj\Debug\Mail Detector.application
